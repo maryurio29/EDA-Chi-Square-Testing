@@ -30,9 +30,9 @@ The continuous variables described in this univariate analysis are Income and Te
 The relative frequencies for the variable Area is 3346/10000 for Suburban areas which is about 0.335, whereas both the Rural and Urban areas have a relative frequency of 3327/10000, or about 0.333. As for the Contract variable, Month-to-month had the greatest relative frequency with 5456/10000 or about 0.546, Two year was 2442/10000 or 0.244, with One year closely behind 2102/10000 or roughly 0.210.
 
 <table>
-<tr><td><img src="/income_boxplot.png" width="420"/></td><td><img src="/tenure_boxplot.png" width="420"/></td></tr>
-<tr><td><img src="/income_histogram.png" width="420"/></td><td><img src="/tenure_histogram.png" width="420"/></td></tr>
-<tr><td><img src="/area_barchart.png" width="420"/></td><td><img src="/contract_barchart.png" width="420"/></td></tr>
+<tr><td><img src="images/income_boxplot.png" width="420"/></td><td><img src="images/tenure_boxplot.png" width="420"/></td></tr>
+<tr><td><img src="images/income_histogram.png" width="420"/></td><td><img src="images/tenure_histogram.png" width="420"/></td></tr>
+<tr><td><img src="images/area_barchart.png" width="420"/></td><td><img src="images/contract_barchart.png" width="420"/></td></tr>
 </table>
 
 ## Part D: Distributions of variables using bivariate statistics
@@ -43,7 +43,7 @@ The continuous variables described in this bivariate analysis are Tenure and Out
 The categorical variables described are Churn and Internet Service that have a Cramer's V value of 0.094.
 
 <table>
-<tr><td><img src="/tenure_outage_scatter.png" width="420"/></td><td><img src="/churn_by_internetservice.png" width="420"/></td></tr>
+<tr><td><img src="images/tenure_outage_scatter.png" width="420"/></td><td><img src="images/churn_by_internetservice.png" width="420"/></td></tr>
 </table>
 
 ## Part E: Summary of Data Analysis
